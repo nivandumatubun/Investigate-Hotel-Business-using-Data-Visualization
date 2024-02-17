@@ -17,15 +17,18 @@ It is very important for a company to always analyze its business performance. O
 ### Monthly Hotel Booking Analysis Based on Hotel Type
 - Label encoding : Month
 - Table of Aggregate Number of Hotel Orders Each Month
-- Graph of Number of Hotel Bookings per Month
+  
+![Graph of Number of Hotel Bookings per Month](grafik_1.png)
 
 ### Impact Analysis Of Stay Duration On Hotel Bookings Cancellation Rates
 - Create a New Column Containing Total Duration of Stay
 - Grouping Values ​​from the stay_duration Column
 - Aggregate Table of Number of Canceled Orders Against Stay Duration
-- Graph of Order Cancellation Ratio to Stay Duration
+  
+![Graph of Order Cancellation Ratio to Stay Duration](grafik_2.png)
 
 ### Impact Analysis Of Lead Time On Hotel Bookings Cancellation Rate
 - Order Distance Category
 - Aggregate Table Comparison of the Number of Canceled Hotel Reservations Against the Reservation Time Distance for Each Hotel Type
-- Graph of Cancellation Ratio Against Order Time Range
+  
+![Graph of Cancellation Ratio Against Order Time Range](grafik_3.png)
